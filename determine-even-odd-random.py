@@ -1,4 +1,4 @@
-# determine if a random number from 1 to 10 is even or odd, using the Python library
+# generate a random number from 1 to 10 and determine if it's even or odd, using the Python library
 import random
 n = random.randint (1,10) # a random number between 1 and 10
 print (n)
